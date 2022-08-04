@@ -28,7 +28,6 @@
   "dependencies": {
     "axios": "^0.27.2",
     "web3": "^1.7.3",
-    "web3-eth-accounts": "^1.7.3",
-    "pancake-v2-contracts": "1.0.0"
+    "web3-eth-accounts": "^1.7.3"
   }
 }
